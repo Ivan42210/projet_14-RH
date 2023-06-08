@@ -1,0 +1,12 @@
+{
+  "name": "p12_front-end-master",
+  "version": "1.0.0",
+  "description": "Welcome to HRnet! This is our company's internal application to create and view employee records.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run"
+  },
+  "author": "",
+  "license": "ISC"
+}
